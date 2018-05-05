@@ -1,0 +1,131 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     128 MB
+Default GameObject Tag: New Tag already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Softwares\game\John Doe's Adventure_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.077 seconds
+desktop: 1920x1080 60Hz; virtual: 4800x1914 at -2880,-834
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Softwares\game\John Doe's Adventure_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20d4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.010663 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.364307 ms (FindLiveObjects: 0.036102 ms CreateObjectMapping: 0.046358 ms MarkObjects: 0.258871 ms  DeleteObjects: 0.014358 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.716716 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.265845 ms (FindLiveObjects: 0.036923 ms CreateObjectMapping: 0.008615 ms MarkObjects: 0.204307 ms  DeleteObjects: 0.015179 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CutSceneScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587896 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 932.
+Total: 0.850870 ms (FindLiveObjects: 0.102563 ms CreateObjectMapping: 0.047179 ms MarkObjects: 0.662973 ms  DeleteObjects: 0.037333 ms)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+dead12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Am here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ivideethi
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+ivideethi1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Am here1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.672816 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 932.
+Total: 1.147075 ms (FindLiveObjects: 0.102153 ms CreateObjectMapping: 0.032820 ms MarkObjects: 0.995280 ms  DeleteObjects: 0.015179 ms)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Floor12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
